@@ -28,6 +28,10 @@ Esta seção estabelece os pilares conceituais da Engenharia de Software, focand
     * **Herança:** Mecanismo que permite que uma classe (subclasse) adquira propriedades e comportamentos de outra classe (superclasse), promovendo a reutilização e extensão de código.
     * **Polimorfismo:** A capacidade de um objeto assumir múltiplas formas, permitindo que métodos com o mesmo nome se comportem de maneira diferente em classes distintas.
     * **Coesão e Acoplamento:** Princípios de design essenciais. Coesão refere-se à força das relações entre os elementos de um módulo (desejável alta coesão, ou seja, responsabilidade única e bem definida). Acoplamento refere-se ao grau de dependência entre módulos (desejável baixo acoplamento, para maior independência e manutenibilidade).
+    * **Arquitetura de Software:**
+    * Define a estrutura de alto nível de um sistema de software, incluindo seus componentes principais, as relações entre esses componentes e os princípios que guiam seu design e evolução ao longo do tempo.
+    * É fundamental para garantir qualidades como escalabilidade, manutenibilidade, segurança e desempenho. A escolha e o design da arquitetura impactam diretamente a complexidade e o custo do desenvolvimento e da operação do sistema.
+    * Embora estilos arquiteturais específicos (como microsserviços, monolitos, arquitetura em camadas) sejam detalhados em artigos dedicados, o conceito de arquitetura como pilar do design de software pertence à Engenharia de Software.
 * **Padrões de Projeto:**
     * **Padrão MVC (Model-View-Controller) de Projeto:** Um padrão arquitetural que separa a aplicação em três componentes principais: o Modelo (lógica de negócio e dados), a Visão (interface do usuário) e o Controlador (gerencia a interação entre Modelo e Visão).
     * Outros padrões de projeto (criacionais, estruturais, comportamentais) oferecem soluções reutilizáveis para problemas comuns de design de software, promovendo a reusabilidade e a manutenibilidade do código.
@@ -46,6 +50,8 @@ A metodologia de desenvolvimento define como o processo de construção do softw
     * **Kanban:** Um método para visualizar o fluxo de trabalho, limitar o trabalho em progresso (WIP) e otimizar a entrega contínua, utilizando quadros visuais.
 * **Prototipação:**
     * Técnica essencial para explorar ideias, validar requisitos e designs, e obter feedback rápido dos usuários em estágios iniciais do desenvolvimento. Protótipos podem variar de esboços simples (wireframes) a versões funcionais limitadas do sistema. É amplamente utilizada em metodologias ágeis para aprimorar o entendimento do produto de forma iterativa.
+* **Integração da Arquitetura na Metodologia:**
+    * A abordagem da arquitetura de software varia conforme a metodologia. Em modelos tradicionais, a arquitetura tende a ser projetada em grande parte no início do projeto (Big Design Up Front). Em metodologias ágeis, a arquitetura evolui de forma mais orgânica e iterativa (Emergent Architecture), com decisões arquitetônicas sendo refinadas ao longo das sprints e impulsionadas pelos requisitos emergentes, frequentemente com "spikes" arquitetônicos para explorar soluções. A disciplina de Engenharia de Software dita a importância de alinhar a estratégia arquitetural com a metodologia de desenvolvimento para garantir a flexibilidade e a robustez do sistema.
 * **DevOps e Integração Contínua (CI/CD):**
     * **DevOps:** Uma cultura e conjunto de práticas que visam automatizar e integrar os processos entre as equipes de desenvolvimento de software e operações de TI, permitindo construir, testar e lançar software com mais rapidez e frequência.
     * **Integração Contínua (CI):** Prática de integrar o código frequentemente em um repositório compartilhado, com testes automatizados para detectar erros precocemente.
