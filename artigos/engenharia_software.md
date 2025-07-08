@@ -50,7 +50,7 @@ A metodologia de desenvolvimento define como o processo de construção do softw
     * **Kanban:** Um método para visualizar o fluxo de trabalho, limitar o trabalho em progresso (WIP) e otimizar a entrega contínua, utilizando quadros visuais.
 * **Prototipação:**
     * Técnica essencial para explorar ideias, validar requisitos e designs, e obter feedback rápido dos usuários em estágios iniciais do desenvolvimento. Protótipos podem variar de esboços simples (wireframes) a versões funcionais limitadas do sistema. É amplamente utilizada em metodologias ágeis para aprimorar o entendimento do produto de forma iterativa.
-* **Integração da Arquitetura na Metodologia:**
+* **Arquitetura:**
     * A abordagem da arquitetura de software varia conforme a metodologia. Em modelos tradicionais, a arquitetura tende a ser projetada em grande parte no início do projeto (Big Design Up Front). Em metodologias ágeis, a arquitetura evolui de forma mais orgânica e iterativa (Emergent Architecture), com decisões arquitetônicas sendo refinadas ao longo das sprints e impulsionadas pelos requisitos emergentes, frequentemente com "spikes" arquitetônicos para explorar soluções. A disciplina de Engenharia de Software dita a importância de alinhar a estratégia arquitetural com a metodologia de desenvolvimento para garantir a flexibilidade e a robustez do sistema.
 * **DevOps e Integração Contínua (CI/CD):**
     * **DevOps:** Uma cultura e conjunto de práticas que visam automatizar e integrar os processos entre as equipes de desenvolvimento de software e operações de TI, permitindo construir, testar e lançar software com mais rapidez e frequência.
