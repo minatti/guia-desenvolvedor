@@ -22,7 +22,7 @@ Ele simplesmente atua como containêrs (imagens), de forma isolado do SO, que n�
 Aqui você encontrará a estrutura dos nossos artigos detalhados, organizados por tema:
 
 ### **1. Engenharia de Software e Fundamentos**
-* **Artigo Principal:** [Engenharia de Software: Da Teoria à Prática](artigos/engenharia_software.md)
+* **Artigo Principal:** [Engenharia de Software: Da Teoria à Prática](https://github.com/minatti/java/blob/teoria/artigos/engenharia_software.md)
     * *Conteúdo:* Aborda a disciplina da Engenharia de Software, seu contexto histórico, princípios, ciclos de vida de desenvolvimento (tradicional e ágil), padrões de projeto, e conceitos essenciais de Orientação a Objetos.
 
 ### **2. Linguagem de Programação Java e Ecossistema**
