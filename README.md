@@ -6,17 +6,6 @@ Nosso objetivo é fornecer uma consulta rápida, simples e eficiente, permitindo
 
 ---
 
-## Instalação e configuração do ambiente:
-
-Aqui você encontrará como realizar as configurações iniciais de um ambiente para desenvolvimento, seja a stack que for. Se observarmos identificamos um problema recorrente, que é de instalar e configurar os ambientes específicos para tais projetos, logo com este conhecimento e entendimento podemos entrar no universo da ferramenta Docker (Digamos que ela é a solução e faz a automação desse processo).
-
-Podemos fazer uma analogia com a configuração de um sistema operacional, onde em algum momento o analista técnico identifica que há necessidade de realizar uma formatação no PC. Partindo desse ponto ele decidi formatar mas antes precisa fazer um backup das informações que o usuário especificou que são importantes mas se ele, o analista for esperto, irá fazer um backup 100% (até de informações que o usuário esqueceu que existiam kkk), também ele vai identificar os programas e as configurações que possuiam no so, no estado momento, mas aqui, se a TI e o setor for organizado, eles vão ter um template bem estruturado e definido por cargos (quais sistemas devem ter instalados e quais tipos de configurações são necessárias), entendendo tudo isto, imagina o seguinte cenário: 
-
-Esse processo ele vai se repetir, e você sabe disso e já tem o template (o template serve como os requisitos necessários tanto para o software como hardware), onde eu quero chegar? É simples, você vai criar modelos de imagens seguindo os templates e com isto sua produtividade quando for solicitado a formatação ou identificar que precisa de uma formatação, você vai realizar o procedimento muito rápido e seu ganho de produtividade é enorme! Enfim, se vc entendeu isso, vai entender agora o que é o Docker e o que ele resolve!
-
-Ele simplesmente atua como containêrs (imagens), de forma isolado do SO, que não só possuem os programas e configurações de um SO comum, onde precisa de tais recursos para atender a necessidade de usuários, mas sim, de um ambiente de desenvolvimento bem específico com recursos, como por exemplo: servidor de aplicação, servidor de banco de dados entre outras necessidades que um projeto de software vai precisar e então ele fica disponível como um containêr (caixa), salva e pronto para ser gerenciada.
-
-
 ## Tópicos e Artigos Disponíveis:
 
 Aqui você encontrará a estrutura dos nossos artigos detalhados, organizados por tema:
