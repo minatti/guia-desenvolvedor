@@ -42,8 +42,7 @@ Siga os passos abaixo para configurar seu ambiente de desenvolvimento Java no De
 Abra seu terminal e execute os seguintes comandos para garantir que seu sistema esteja atualizado:
 
 ```bash
-sudo apt update
-sudo apt upgrade -y
+sudo apt update && sudo apt upgrade -y
 ```
 
 ### 2.2 Instalar o Java Development Kit (JDK)
@@ -52,7 +51,8 @@ Recomenda-se as instalações de versões com suporte de longo prazo e estabilid
 17(LTS) ou 21(LTS).
 
 ```bash 
-sudo apt install openjdk-21-jdk -y
+wget https://download.oracle.com/java/21/latest/jdk-21_linux-x64_bin.deb
+sudo dpkg -i jdk-21_linux-x64_bin.deb
 ```
 
 Verificação:
@@ -62,6 +62,14 @@ Após a instalação, confirme a versão do Java:
 ```bash
 java -version
 javac -version
+```
+
+Se precisar remover o JDK, faça o seguinte:
+
+```bash
+sudo apt purge openjdk-21-jdk
+sudo dpkg -r jdk-21
+sudo apt autoremove --purge
 ```
 
 2.3. Instalar o Maven
