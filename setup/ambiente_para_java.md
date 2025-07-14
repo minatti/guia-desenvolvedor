@@ -124,15 +124,6 @@ Instalar o IntelliJ IDEA:
 O Toolbox App será iniciado. Ele pode ser adicionado ao seu menu de aplicativos para fácil acesso. Dentro do Toolbox App, localize o IntelliJ IDEA Community Edition (gratuito e suficiente para a maioria dos casos) ou a Ultimate Edition (paga, com recursos avançados) e clique em "Install".
 
 
-**IDE**
-
-Uma IDE, ou Ambiente de Desenvolvimento Integrado, 
-é um software que combina ferramentas essenciais para o desenvolvimento de software 
-em um único local. 
-Ele oferece um ambiente de programação unificado, 
-facilitando tarefas como edição de código, compilação, teste e depuração, 
-aumentando a produtividade do desenvolvedor. 
-
 
 
 
