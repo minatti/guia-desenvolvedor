@@ -12,6 +12,9 @@ Para um desenvolvimento Java eficiente, as seguintes ferramentas são indispens�
 
 * **Função:** O JDK é o kit de desenvolvimento fundamental para Java. Ele inclui o compilador (`javac`), que transforma seu código-fonte Java em bytecode executável, e o Java Runtime Environment (JRE), que contém a Java Virtual Machine (JVM) para executar aplicações Java. É a base para qualquer desenvolvimento Java.
 * **Analogia:** O "motor" e o "construtor" do seu projeto Java.
+* **Representação visual:** Como funciona o ambiente java? 
+(https://github.com/minatti/guia-desenvolvedor/blob/representacoes/docs/diagramas/ambiente-dev.drawio.png)
+Como faz a compilação do código: https://github.com/minatti/guia-desenvolvedor/blob/representacoes/docs/diagramas/como-funciona-compila.drawio.png
 
 ### 1.2. Maven ou Gradle
 
