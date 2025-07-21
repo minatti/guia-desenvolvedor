@@ -134,7 +134,9 @@ cd jetbrains-toolbox-*/
 Instalar o IntelliJ IDEA:
 O Toolbox App será iniciado. Ele pode ser adicionado ao seu menu de aplicativos para fácil acesso. Dentro do Toolbox App, localize o IntelliJ IDEA Community Edition (gratuito e suficiente para a maioria dos casos) ou a Ultimate Edition (paga, com recursos avançados) e clique em "Install".
 
+### 2.6 Plugins para a IDEA
 
+1. JetBrains AI Assistant
 
 
 
